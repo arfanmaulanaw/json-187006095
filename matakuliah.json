@@ -1,0 +1,44 @@
+[
+    {
+        "kode" : 16431302,
+        "matakuliah" : "Metodologi Penelitian dan Penulisan Karya Ilmiah",
+        "dosen" : "Dr.Aradea.,S.T.,M.T.",
+        "hari" : "Senin"
+    },
+    {
+        "kode" : 16431314,
+        "matakuliah" : "Intelijen Bisnis",
+        "dosen" : "Husni Mubarok.,S.TP.,M.T.",
+        "hari" : "Selasa"
+    },
+    {
+        "kode" : 16431214,
+        "matakuliah" : "Interaksi Manusia dan Komputer",
+        "dosen" : "Alam Rahmatulloh.,S.T.,M.T.",
+        "hari" : "Rabu"
+    },
+    {
+        "kode" : 16431306,
+        "matakuliah" : "Data Mining",
+        "dosen" : "Acep Irman Gufroni.,S.Kom.,M.Eng.",
+        "hari" : "Rabu"
+    },
+    {
+        "kode" : 16431310,
+        "matakuliah" : "Rekayasa Sistem dan Teknologi Informasi",
+        "dosen" : "Rahmi Nur Shofa.,S.T.,M.T.",
+        "hari" : "Rabu"
+    },
+    {
+        "kode" : 16431312,
+        "matakuliah" : "Web Services",
+        "dosen" : "Alam Rahmatulloh.,S.T.,M.T.",
+        "hari" : "Kamis"
+    },
+    {
+        "kode" : 16431304,
+        "matakuliah" : "Grafika Komputer",
+        "dosen" : "Aldy Putra Aldya.,S.T.,M.T.",
+        "hari" : "Kamis"
+    }
+]
